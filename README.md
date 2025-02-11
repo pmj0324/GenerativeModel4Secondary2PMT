@@ -1,1 +1,1 @@
-# Deep Learning for Secondary Particle's Characteristic to PMT Response
+# Deep Learning for Predicting PMT Responses from Secondary Particle Characteristics
